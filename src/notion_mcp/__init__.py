@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from notion-mcp!")
+"""Notion MCP server: lets Claude search, read and write Notion pages."""
